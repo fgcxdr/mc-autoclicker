@@ -7,3 +7,9 @@
 ```
 pipenv install
 ```
+
+### Running
+* Script waits 5 seconds to let you position the player / mouse
+```
+pipenv run python autoclick.py
+```
