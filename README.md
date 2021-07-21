@@ -8,8 +8,15 @@
 pipenv install
 ```
 
-### Running
+### Running autoclicker
 * Script waits 5 seconds to let you position the player / mouse
 ```
 pipenv run python autoclick.py
+```
+
+### Running trades
+
+![Setup](trades_example.png)
+```
+pipenv run python trades.py
 ```
