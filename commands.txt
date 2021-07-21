@@ -1,0 +1,215 @@
+75 100 145
+
+n 102 145
+
+
+/fill 67 102 131 67 108 131 log 1
+
+password: c7qf*V:zrSL9Ygt.
+first pets name: mango
+109, -640
+230 -272
+
+
+tickingarea add 48 0 128 112 0 160 ghast_blaster
+
+tickingarea add 48 0 128 112 0 160 ghast_blaster
+
+tickingarea add 1267 58 990 1287 78 1010 mob_switch
+
+tickingarea add -184 78 70 -201 98 87 super_horse
+
+testfor @e[x=24,y=74,z=-170,r=20,type=wolf]
+
+testfor @e[x=~0,y=~0,z=~0,r=20,type=wolf]\
+
+/summon minecart -1364 73 967
+
+/summon wolf -1364 65 960 -1365 75 9671
+
+testfor @e[type=wolf,x=-1363,y=65,z=960,dx=-1364,dy=75,dz=967]
+
+
+tickingarea add 16 64 -161 31 70 -176 mob_switch
+
+
+testfor @e[type=chicken,x=18,y=53,z=-172,dx=20,dy=55,dz=-172]
+
+testfor @e[type=chicken,x=14,y=54,z=-174,dx=14,dy=54,dz=-174]
+
+Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken
+
+Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken, Chicken
+
+
+
+testfor @e[type=wolf,x=16,y=64,z=-161,dx=31,dy=70,dz=-176]
+
+tickingarea add 16 64 -161 31 70 -176 mob_switch
+
+tickingarea add -114 52 -3 -100 52 15 spider_farm
+
+
+/summon wolf -1364 65 960 
+/summon phantom 10285 68 11841
+
+
+testfor @e[x=137,y=128,z=2047,r=48,type=rabbit]
+
+testfor @e[x=~,y=~,z=~,r=48,type=rabbit]
+
+5045 128 -5706 5085 128 -5722
+
+clone 5045 128 -5722 5085 133 -5706 5045 128 -5706
+
+clone 5045 128 -5722 5085 133 -5706 5045 128 -5690
+
+clone 5045 128 -5722 5085 133 -5706 5013 128 -5690
+
+summon minecart 5065 129 -5686
+summon wolf 5065 129 -5686 minecraft:on_tame
+
+summon minecart 5073 129 -5686
+summon wolf 5073 129 -5686 minecraft:on_tame
+
+summon minecart 5081 129 -5686
+summon wolf 5081 129 -5686 minecraft:
+
+
+
+summon minecart 5057 129 -5686
+summon wolf 5057 129 -5686 minecraft:on_tame
+
+summon minecart 5049 129 -5686
+summon wolf 5049 129 -5686 minecraft:
+
+summon minecart 5041 129 -5686
+summon wolf 5041 129 -5686 minecraft:on_tame
+
+
+summon minecart 5049 130 -5072
+summon wolf 5049 129 -5072 minecraft:
+
+4931 -2214
+
+testfor @e[x=4931,y=179,z=-2214,r=100]
+
+testfor @e 4899 0 -2246 4963 250 -2182
+
+summon wolf 5063 160 -5698 minecraft:on_tame
+
+clone -12793 120 5642 -12780 130 5629 -12693 120 5601
+
+clone -12793 120 5642 -12780 130 5629 -12793 120 5601
+clone -12793 120 5642 -12780 130 5629 -12793 120 5615
+clone -12793 120 5642 -12780 130 5629 -12793 120 5629
+clone -12793 120 5642 -12780 130 5629 -12793 120 5643
+clone -12793 120 5642 -12780 130 5629 -12793 120 5657
+clone -12793 120 5642 -12780 130 5629 -12793 120 5671
+clone -12793 120 5642 -12780 130 5629 -12793 120 5585
+
+clone -12793 120 5685 -12780 130 5585 -12807 120 5585
+clone -12793 120 5685 -12780 130 5585 -12821 120 5585
+clone -12793 120 5685 -12780 130 5585 -12779 120 5585
+clone -12793 120 5685 -12780 130 5585 -12765 120 5585
+clone -12793 120 5685 -12780 130 5585 -12751 120 5585
+
+clone -12694 120 5615 -12679 130 5600 -12694 120 5586
+
+clone -12694 120 5615 -12679 130 5600 -12694 120 5572
+clone -12694 120 5615 -12679 130 5600 -12694 120 5558
+
+clone -12694 120 5615 -12679 130 5600 -12680 120 5572
+clone -12694 120 5615 -12679 130 5600 -12680 120 5558
+
+
+clone -12694 120 5615 -12679 130 5600 -12760 120 5619 replace
+clone -12694 120 5615 -12679 130 5600 -12774 120 5619 replace
+clone -12694 120 5615 -12679 130 5600 -12788 120 5619 replace
+clone -12694 120 5615 -12679 130 5600 -12802 120 5619 replace
+
+clone -12694 120 5615 -12679 130 5600 -12760 120 5633 replace
+clone -12694 120 5615 -12679 130 5600 -12774 120 5633 replace
+clone -12694 120 5615 -12679 130 5600 -12788 120 5633 replace
+clone -12694 120 5615 -12679 130 5600 -12802 120 5633 replace
+
+clone -12694 120 5615 -12679 130 5600 -12760 120 5647 replace
+clone -12694 120 5615 -12679 130 5600 -12774 120 5647 replace
+clone -12694 120 5615 -12679 130 5600 -12788 120 5647 replace
+clone -12694 120 5615 -12679 130 5600 -12802 120 5647 replace
+
+clone -12694 120 5615 -12679 130 5600 -12760 120 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12774 120 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12788 120 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12802 120 5661 replace
+
+
+summon minecart -12749 129 5623
+summon minecart -12756 129 5623
+summon minecart -12763 129 5623
+summon minecart -12770 129 5623
+summon minecart -12777 129 5623
+summon minecart -12784 129 5623
+summon minecart -12791 129 5623
+
+
+clone -12694 120 5615 -12679 130 5600 -12760 147 5591 replace
+clone -12694 120 5615 -12679 130 5600 -12774 147 5591 replace
+clone -12694 120 5615 -12679 130 5600 -12788 147 5591 replace
+clone -12694 120 5615 -12679 130 5600 -12802 147 5591 replace
+
+clone -12694 120 5615 -12679 130 5600 -12746 147 5605 replace
+clone -12694 120 5615 -12679 130 5600 -12760 147 5605 replace
+clone -12694 120 5615 -12679 130 5600 -12774 147 5605 replace
+clone -12694 120 5615 -12679 130 5600 -12788 147 5605 replace
+clone -12694 120 5615 -12679 130 5600 -12802 147 5605 replace
+clone -12694 120 5615 -12679 130 5600 -12816 147 5605 replace
+
+clone -12694 120 5615 -12679 130 5600 -12732 147 5619 replace
+clone -12694 120 5615 -12679 130 5600 -12746 147 5619 replace
+
+
+
+clone -12694 120 5615 -12679 130 5600 -12802 147 5619 replace
+clone -12694 120 5615 -12679 130 5600 -12816 147 5619 replace
+
+clone -12694 120 5615 -12679 130 5600 -12732 147 5633 replace
+clone -12694 120 5615 -12679 130 5600 -12746 147 5633 replace
+
+clone -12694 120 5615 -12679 130 5600 -12802 147 5633 replace
+clone -12694 120 5615 -12679 130 5600 -12816 147 5633 replace
+
+clone -12694 120 5615 -12679 130 5600 -12732 147 5647 replace
+clone -12694 120 5615 -12679 130 5600 -12746 147 5647 replace
+
+clone -12694 120 5615 -12679 130 5600 -12802 147 5647 replace
+clone -12694 120 5615 -12679 130 5600 -12816 147 5647 replace
+
+clone -12694 120 5615 -12679 130 5600 -12732 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12746 147 5661 replace
+
+clone -12694 120 5615 -12679 130 5600 -12802 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12816 147 5661 replace
+
+clone -12694 120 5615 -12679 130 5600 -12746 147 5675 replace
+clone -12694 120 5615 -12679 130 5600 -12802 147 5675 replace
+
+
+clone -12694 120 5615 -12679 130 5600 -12746 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12760 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12774 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12788 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12802 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12816 147 5661 replace
+
+clone -12694 120 5615 -12679 130 5600 -12746 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12760 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12774 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12788 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12802 147 5661 replace
+clone -12694 120 5615 -12679 130 5600 -12816 147 5661 replace
+
+clone -12694 120 5615 -12679 130 5600 -12760 147 5682 replace
+clone -12694 120 5615 -12679 130 5600 -12774 147 5682 replace
+clone -12694 120 5615 -12679 130 5600 -12788 147 5682 replace
+clone -12694 120 5615 -12679 130 5600 -12802 147 5682 replace
